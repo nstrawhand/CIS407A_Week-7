@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PayrollSystem", ".", "{D15266E7-4BC4-48BD-8B8B-F63783BA0061}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/PayrollSystem"
+		Debug.AspNetCompiler.PhysicalPath = "..\PayrollSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PayrollSystem\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PayrollSystem"
+		Release.AspNetCompiler.PhysicalPath = "..\PayrollSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PayrollSystem\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "18289"
+		SlnRelativePath = "..\PayrollSystem\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15266E7-4BC4-48BD-8B8B-F63783BA0061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15266E7-4BC4-48BD-8B8B-F63783BA0061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA5E8E32-3992-472F-B604-2E95B027E445}
+	EndGlobalSection
+EndGlobal
